@@ -1,0 +1,6 @@
+Prompt Type,BERTScore F1,Length Ratio,Word Count Ratio
+Persona-based,0.8474,0.7443,0.7778
+Keyword-based,0.8336,0.5391,0.6548
+Conversational,0.8288,0.7399,0.7895
+Scenario-based,0.8281,1.1603,1.3462
+Direct,0.8261,0.8590,0.9383
